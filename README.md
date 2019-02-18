@@ -1,2 +1,2 @@
 # practicando
-Este repositorio es para practica, lo aprendido anteriormente.
+Este repositorio es para practica, lo aprendido anteriormente. Vamos a darle!
